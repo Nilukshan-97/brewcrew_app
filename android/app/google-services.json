@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020190057695",
+    "project_id": "auth-dc960",
+    "storage_bucket": "auth-dc960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020190057695:android:c9f615bf4ab5a73bdcf56a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020190057695-ps6c620vkj70tm1snsmhhvhl1kumc1tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMZkLrb6gTIslTxOkRIwA28-5hUhYfyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020190057695-ps6c620vkj70tm1snsmhhvhl1kumc1tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
